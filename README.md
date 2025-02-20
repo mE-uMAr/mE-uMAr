@@ -10,5 +10,5 @@ Currently, I’m working on **AI projects* and sharpening my skills in *Machine 
 *Languages:* Python, Java, JavaScript ,C++
 *Backend:* FastAPI, Django, Django Rest Framework  
 *AI & ML:* TensorFlow, Scikit-Learn, Keras  
-*Databases:* PostgreSQL, MySQL , MongoDB
+*Databases:* PostgreSQL, MySQL , MongoDB  
 *Frontend:* HTML, CSS ,React
