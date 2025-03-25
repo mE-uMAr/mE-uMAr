@@ -34,8 +34,8 @@ Currently, I’m working on AI projects and sharpening my skills in Machine Lear
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ## 📊 GitHub Stats:  
-![Mehar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-profile&layout=compact&theme=radical)  
+![Mehar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=me-umar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=me-umar&layout=compact&theme=radical)  
 
 ## 📫 Connect with me:  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/me-umar)  
