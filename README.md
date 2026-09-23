@@ -52,7 +52,6 @@ I build AI powered products and client systems at **Hashed System FZCO**, and wo
 
 | | |
 | :--- | :--- |
-| **Portfolio** | [meharumar.codes](https://www.meharumar.codes) |
 | **LinkedIn** | [linkedin.com/in/mehar-umar](https://www.linkedin.com/in/mehar-umar-04b332304/) |
 | **Email** | [me.umar0027@gmail.com](mailto:me.umar0027@gmail.com) |
 
